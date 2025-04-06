@@ -1,2 +1,6 @@
 # Deepfake-Detection
 This project aims to develop a deep learning-based solution for detecting face-swap deep fake images. With the rapid rise of social media platforms, fake or edited images are increasingly being used to spread misinformation, causing significant harm. Basically our main goal is to create an efficient image classification system capable of accurately identifying deep fake images. 
+# Problem Statement
+With the rapid rise of social media, individuals can share and disseminate images globally within seconds. However, this ease of sharing has also led to the widespread circulation of manipulated or fake images, including deepfakes, which can mislead users and contribute to the spread of misinformation. The growing sophistication of deepfake technology makes it increasingly difficult for the human eye to detect such forgeries.
+
+To address this challenge, our solution leverages deep learning to analyze image data and accurately predict whether an image is real or manipulated. We plan to deploy this solution online, as it aligns with the nature of the problem and ensures broad accessibility. While the deployment method can be revised if needed, having a clear understanding of the problem and the target variable helps us identify a deployment approach that maximizes business value.
